@@ -3,7 +3,6 @@ pandas==1.2.5
 matplotlib 
 seaborn==v0.11.2 
 statsmodels
-pingouin==05.0
 plotly
 dataprep
 
