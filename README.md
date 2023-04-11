@@ -1,14 +1,14 @@
 # Finding Where to Thrive
 
-### Problem Description
+## Problem Description
 
 Inflation is eroding the purchasing power of the everyday American. We hypothesize that median annual salaries are not increasing at the same rate as average living expenses. Analyzing US income and annual household expense data on the county and state levels can allow us to identify trends, and understand the true extent of the gap between actual earnings and a "living wage". Additionally, we would like to see if the data supports the hypothesis that the recent mass exodus from larger metropolitan areas, to smaller cities on-the-rise, has caused spikes in rent prices. 
 
-### Impact
+## Impact
 
 Cost burden is defined as paying more than 30% of household income for housing including rent, mortgage, and other housing needs (https://www.census.gov/library/stories/2022/12/housing-costs-burden.html). Severe cost-burden is defined as paying more than 50% of household income for housing. It’s becoming increasingly more difficult for people to meet basic needs with the rise in living expenses and salaries not increasing proportionately to meet that demand. If the rise in living expenses continue to outpace wage increases, we will see many more citizens who cannot afford basic necessities. It may also exacerbate the exodus from larger to smaller metropolitan areas, leading to increased cost-of-living expenses in those areas, and the displacement of long-time residents. 
 
-### Approach
+## Approach
 
  - Utilize curated data to understand the change in median income, rent, and consumer expenditures over the years of 2017 to 2021
  - Compare wages vs living expenses in a given area to measure affordability
@@ -40,3 +40,12 @@ Cost burden is defined as paying more than 30% of household income for housing i
  
     MIT’s annual living wage calculator estimates the cost of a family’s basic necessities including housing, food, childcare, insurance, etc. Costs and the needed living wage are estimated according to the family composition of one or two adults, with 0, 1, 2, or 3 dependent children. Data for all US states was collected from https://livingwage.mit.edu in the form of HTML files for the year 2022.
     
+## Analysis
+
+The analysis consists of five parts:
+
+1. [Exploring Fair Market Rent Data](https://hub.gke2.mybinder.org/user/robyndwhite-fin-where-to-thrive-spaf6q2j/notebooks/Finding%20Where%20to%20Thrive%20-%20FMR%20Data.ipynb)
+2. Exploring State and Metro Wage Data
+3. Exploring Consumer Price Index Data
+4. Exploring Population Data
+5. A Comparative Analysis
