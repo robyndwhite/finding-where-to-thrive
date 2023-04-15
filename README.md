@@ -44,7 +44,7 @@ Cost burden is defined as paying more than 30% of household income for housing i
 
 The analysis consists of five parts:
 
-1. [Exploring Fair Market Rent Data](https://mybinder.org/v2/gh/robyndwhite/finding-where-to-thrive/693ac5b35998f11f607c14e5a40c3327271960e3?filepath=Finding%20Where%20to%20Thrive%20-%20FMR%20Data.ipynb)
+1. [Exploring Fair Market Rent Data](https://nbviewer.org/github/robyndwhite/finding-where-to-thrive/blob/main/Finding_Where_to_Thrive_FMR_Data.ipynb)
 2. Exploring State and Metro Wage Data
 3. Exploring Consumer Price Index Data
 4. Exploring Population Data
