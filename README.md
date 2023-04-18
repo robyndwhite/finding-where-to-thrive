@@ -46,6 +46,6 @@ The analysis consists of five parts:
 
 1. [Exploring Fair Market Rent Data](https://nbviewer.org/gist/robyndwhite/48d9d45fc77bd3061383f092ea206472)
 2. Exploring State and Metro Wage Data
-3. Exploring Consumer Price Index Data
+3. [Exploring Consumer Price Index Data](https://nbviewer.org/gist/robyndwhite/083dd940b5c14060bd5bd257283facda)
 4. Exploring Population Data
 5. A Comparative Analysis
