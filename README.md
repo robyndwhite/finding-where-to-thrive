@@ -35,10 +35,6 @@ Cost burden is defined as paying more than 30% of household income for housing i
  - **U.S. Bureau of Labor Statistics - Occupational Employment and Wage Statistics (BLS OES)**
  
     The Occupational Employment and Wage Statistics program produces and publishes annual wage estimates for ~830 occupations at a national, state, and metropolitan/nonmetropolitan area level. Data for all US states was collected in the form of Excel files from https://www.bls.gov/oes for the years 2017 - 2021.
-
- - **Massachusetts Institute of Technology, Living Wage Calculator**
- 
-    MIT’s annual living wage calculator estimates the cost of a family’s basic necessities including housing, food, childcare, insurance, etc. Costs and the needed living wage are estimated according to the family composition of one or two adults, with 0, 1, 2, or 3 dependent children. Data for all US states was collected from https://livingwage.mit.edu in the form of HTML files for the year 2022.
     
 ## Analysis
 
