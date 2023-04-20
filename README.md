@@ -12,7 +12,7 @@ Cost burden is defined as paying more than 30% of household income for housing i
 
  - Utilize curated data to understand the change in median income, rent, and consumer expenditures over the years of 2017 to 2021
  - Compare wages vs living expenses in a given area to measure affordability
- - Complete simple and multiple linear regression models to test the relationship between wages and other variables like population
+ - Perform multiple linear regression analysis using statsmodels to determine the relationship between wages and independent variables like population
  
  ## Data Curation
  
