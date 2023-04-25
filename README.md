@@ -35,7 +35,19 @@ Cost burden is defined as paying more than 30% of household income for housing i
  - **U.S. Bureau of Labor Statistics - Occupational Employment and Wage Statistics (BLS OES)**
  
     The Occupational Employment and Wage Statistics program produces and publishes annual wage estimates for ~830 occupations at a national, state, and metropolitan/nonmetropolitan area level. Data for all US states was collected in the form of Excel files from https://www.bls.gov/oes for the years 2017 - 2021.
-    
+   
+## Project Tools
+
+- JupyterLab
+- Python
+  - Pandas
+  - Numpy
+  - Seaborn
+  - Plotly
+  - Fuzzywuzzy
+  - Statsmodels
+  
+ 
 ## Analysis
 
 The analysis consists of five parts:
