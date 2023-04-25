@@ -44,4 +44,4 @@ The analysis consists of five parts:
 2. [Exploring State and Metro Wage Data](https://nbviewer.org/gist/robyndwhite/600038c51830c8328ade16b9e882bf8d)
 3. [Exploring Consumer Price Index Data](https://nbviewer.org/gist/robyndwhite/083dd940b5c14060bd5bd257283facda)
 4. [Exploring Population Data](https://nbviewer.org/gist/robyndwhite/186d5fa00699e46c92f75a1b67e578b6)
-5. [A Comparative Analysis](https://nbviewer.org/gist/robyndwhite/d3f27905074805bf0e9243ef72a6fd0c)
+5. [A Comparative Analysis](https://nbviewer.org/gist/robyndwhite/135acc562a7beb534ce56ade76e8f5e1)
