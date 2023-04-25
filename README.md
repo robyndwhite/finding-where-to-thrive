@@ -6,7 +6,7 @@ Inflation is eroding the purchasing power of the everyday American. We hypothesi
 
 ## Impact
 
-Cost burden is defined as paying more than 30% of household income for housing including rent, mortgage, and other housing needs (https://www.census.gov/library/stories/2022/12/housing-costs-burden.html). Severe cost-burden is defined as paying more than 50% of household income for housing. It’s becoming increasingly more difficult for people to meet basic needs with the rise in living expenses and salaries not increasing proportionately to meet that demand. If the rise in living expenses continue to outpace wage increases, we will see many more citizens who cannot afford basic necessities. It may also exacerbate the exodus from larger to smaller metropolitan areas, leading to increased cost-of-living expenses in those areas, and the displacement of long-time residents. 
+Cost burden is defined as paying more than 30% of household income for housing including rent, mortgage, and other housing needs (https://www.census.gov/library/stories/2022/12/housing-costs-burden.html). It’s becoming increasingly more difficult for people to meet basic needs with the rise in living expenses and salaries not increasing proportionately to meet that demand. If the rise in living expenses continue to outpace wage increases, we will see many more citizens who cannot afford basic necessities. It may also exacerbate the exodus from larger to smaller metropolitan areas, leading to increased cost-of-living expenses in those areas, and the displacement of long-time residents. 
 
 ## Approach
 
