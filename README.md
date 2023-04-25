@@ -66,8 +66,8 @@ In short, it depends on the area. For some areas that we plotted, like Fort Laud
 
 2. Is there a correlation between wages and other variables like rent, CPI, and population?
 
-There appears to be a correlation between wages and the other variables, but the strongest correlation is between wages and fair market rents.
+There appears to be a correlation between wages and the other variables with the strongest correlation is between wages and fair market rents.
 
 3. Can we conclude that an increase in an area's population directly relates to an increase in living expenses based on our collected data?
 
-Again, it depends largely on the area. In some areas, like those in the southern region, we see a higher correlation between the median FMR and population. In other areas population seems to have little to no effect on living expenses.
+Again, it depends largely on the area. In some areas, like those in the southern region, we see a higher correlation between the median FMR and population. In other areas, population seems to have little to no effect on living expenses.
