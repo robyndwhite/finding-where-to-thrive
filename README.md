@@ -2,7 +2,7 @@
 
 ## Problem Description
 
-Inflation is eroding the purchasing power of the everyday American. We hypothesize that median annual salaries are not increasing at the same rate as average living expenses. Analyzing US income and annual household expense data on the county and state levels can allow us to identify trends, and understand the true extent of the gap. Additionally, we would like to see if the data supports the hypothesis that the recent mass exodus from larger metropolitan areas, to smaller cities on-the-rise, has caused spikes in rent prices. 
+Inflation is eroding the purchasing power of the everyday American. We hypothesize that median annual salaries are not increasing at the same rate as average living expenses. Analyzing US income and annual household expense data at the metropolitan area and state levels can allow us to identify trends, and understand the true extent of the gap. Additionally, we would like to see if the data supports the hypothesis that the recent mass exodus from larger metropolitan areas, to smaller cities on-the-rise, has caused spikes in rent prices. 
 
 ## Impact
 
@@ -40,6 +40,7 @@ Cost burden is defined as paying more than 30% of household income for housing i
 
 - JupyterLab
 - Python
+  - Dataprep
   - Pandas
   - Numpy
   - Seaborn
