@@ -47,7 +47,6 @@ Cost burden is defined as paying more than 30% of household income for housing i
   - Plotly
   - Fuzzywuzzy
   - Statsmodels
-  
  
 ## Analysis
 
@@ -58,3 +57,17 @@ The complete analysis consists of five parts linked below:
 3. [Exploring Consumer Price Index Data](https://nbviewer.org/gist/robyndwhite/083dd940b5c14060bd5bd257283facda)
 4. [Exploring Population Data](https://nbviewer.org/gist/robyndwhite/186d5fa00699e46c92f75a1b67e578b6)
 5. [A Comparative Analysis](https://nbviewer.org/gist/robyndwhite/d0f9cfc7a1dcb90843d1c4672f24fa7c)
+
+## Findings
+
+1. Have the percentage increases in median wages kept up with the percentage increases in rent and CPI?
+
+In short, it depends on the area. For some areas that we plotted, like Fort Lauderdale, FL or San Francisco, CA, we can see that the median wage increase is well below the increases of the FMRs and consumer price indexes. Other areas like Decatur, IL and Rochester, NY have seen greater increases in the median wage. A point to consider however, is that the Fair Market Rent data provided by HUD may differ from actual market rent data that can be found directly on property listings in some cities.
+
+2. Is there a correlation between wages and other variables like rent, CPI, and population?
+
+There appears to be a correlation between wages and the other variables, but the strongest correlation is between wages and fair market rents.
+
+3. Can we conclude that an increase in an area's population directly relates to an increase in living expenses based on our collected data?
+
+Again, it depends largely on the area. In some areas, like those in the southern region, we see a higher correlation between the median FMR and population. In other areas population seems to have little to no effect on living expenses.
