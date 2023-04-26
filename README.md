@@ -1,3 +1,5 @@
+![FWT](https://drive.google.com/file/d/1OFkus_MY-DYGiWa2dacnz9JUbH8BSKi-/view?usp=share_link)
+
 # Finding Where to Thrive
 
 ## Problem Description
