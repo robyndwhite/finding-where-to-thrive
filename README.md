@@ -1,3 +1,5 @@
+![FWT](FWT.png)
+
 # Finding Where to Thrive
 
 ## Problem Description
